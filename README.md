@@ -13,6 +13,7 @@
 **Functionalities**
 
 **System Administrator**
+
 ● Can add new stores, normal users, and admin users.
 ● Has access to a dashboard displaying:
 ○ Total number of users
