@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 import api from "../services/api";
 
-import "./Auth.css";
+import "../Auth.css";
 
 const Register = () => {
   const navigate = useNavigate();
