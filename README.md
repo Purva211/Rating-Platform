@@ -87,32 +87,6 @@ Ratings are given on a scale of **1 to 5**, where each normal user can submit on
 
 A user can later update their existing rating instead of submitting another rating for the same store.
 
-## Project Structure
-
-```text
-Rating-Platform/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── server.js
-│   └── package.json
-│
-├── database/
-│   └── schema.sql
-│
-├── .gitignore
-└── README.md
-```
 
 ## Getting Started
 
@@ -250,7 +224,14 @@ Some possible improvements for the project include:
 
 ### Output
 
-<img width="1074" height="923" alt="Screenshot 2026-08-17 124804" src="https://github.com/user-attachments/assets/acc96da0-8714-4951-b442-c0c532dd44f8" />
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acc96da0-8714-4951-b442-c0c532dd44f8" width="45%" />
+  <img src="images/user-dashboard.png" width="45%" />
+</p>
+
 
 <img width="1161" height="708" alt="Screenshot 2026-08-17 124525" src="https://github.com/user-attachments/assets/efa516bb-ee6e-4b47-b3e7-b6a84d4fe96c">
 
