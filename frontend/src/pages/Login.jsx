@@ -6,7 +6,7 @@ import api from "../services/api";
 
 import { useAuth } from "../context/AuthContext";
 
-import "../auth.css";
+import "./auth.css";
 
 const Login = () => {
   const navigate = useNavigate();
