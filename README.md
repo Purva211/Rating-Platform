@@ -227,6 +227,9 @@ Some possible improvements for the project include:
 <img width="1161" height="708" alt="Screenshot 2026-08-17 124525" src="https://github.com/user-attachments/assets/efa516bb-ee6e-4b47-b3e7-b6a84d4fe96c">
 <br>
 <br>
+<img width="1613" height="969" alt="image" src="https://github.com/user-attachments/assets/ed22c19d-c782-431f-b363-a21185ea0179" />
+<br>
+<br>
 <img width="1919" height="531" alt="Screenshot 2026-08-17 124851" src="https://github.com/user-attachments/assets/731b589f-3090-4fb9-9cd2-1194e0db58a0" />
 <br>
 <br>
