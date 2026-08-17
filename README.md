@@ -223,22 +223,24 @@ Some possible improvements for the project include:
 
 
 ### Output
-
-<img width="1161" height="708" alt="Screenshot 2026-08-17 124525" src="https://github.com/user-attachments/assets/acc96da0-8714-4951-b442-c0c532dd44f8">
 <br>
 <img width="1161" height="708" alt="Screenshot 2026-08-17 124525" src="https://github.com/user-attachments/assets/efa516bb-ee6e-4b47-b3e7-b6a84d4fe96c">
 <br>
+<br>
 <img width="1919" height="531" alt="Screenshot 2026-08-17 124851" src="https://github.com/user-attachments/assets/731b589f-3090-4fb9-9cd2-1194e0db58a0" />
+<br>
 <br>
 <img width="1918" height="500" alt="Screenshot 2026-08-17 124843" src="https://github.com/user-attachments/assets/a254978b-f2b0-4f51-b2e7-e7cb8dbd1baa" />
 <br>
+<br>
 <img width="1919" height="447" alt="Screenshot 2026-08-17 125120" src="https://github.com/user-attachments/assets/88d514f4-da73-4650-a794-0542b01b6039" />
+<br>
 <br>
 <img width="1919" height="687" alt="Screenshot 2026-08-17 125219" src="https://github.com/user-attachments/assets/9f1f02a9-638d-4d25-bef9-eae9c1c95a32" />
 <br>
+<br>
 <img width="1919" height="917" alt="Screenshot 2026-08-17 125032" src="https://github.com/user-attachments/assets/4afd4298-d1cb-4927-9f0f-e3bff5d07e40" />
 <br>
-<img width="1919" height="917" alt="Screenshot 2026-08-17 125032" src="https://github.com/user-attachments/assets/7058aea5-9c6f-4172-9314-6b7703a7086a" />
 <br>
 <img width="1919" height="867" alt="Screenshot 2026-08-17 125527" src="https://github.com/user-attachments/assets/f7290e89-e6e7-42a9-9535-30a9504b3b8b" />
 
