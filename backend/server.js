@@ -18,10 +18,7 @@ const app = express();
 
 const allowedOrigins = process.env.CLIENT_URL
   ? process.env.CLIENT_URL.split(",").map((origin) => origin.trim())
-  : [
-      "http://localhost:5173",
-      "https://rating-platform-backend-doaa.onrender.com",
-    ];
+  : ["http://localhost:5173", "https://rating-platform-frontend.onrender.com"];
 
 app.use(
   cors({
