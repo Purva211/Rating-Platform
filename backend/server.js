@@ -18,14 +18,20 @@ const app = express();
 
 const allowedOrigins = process.env.CLIENT_URL
   ? process.env.CLIENT_URL.split(",").map((origin) => origin.trim())
-  : ["http://localhost:5173"];
+  : [
+      "http://localhost:5173",
+      "https://rating-platform-backend-doaa.onrender.com",
+    ];
 
 app.use(
   cors({
     origin: function (origin, callback) {
       // allow requests with no origin (like mobile apps or curl requests)
       if (!origin) return callback(null, true);
-      if (allowedOrigins.indexOf(origin) !== -1 || allowedOrigins.includes("*")) {
+      if (
+        allowedOrigins.indexOf(origin) !== -1 ||
+        allowedOrigins.includes("*")
+      ) {
         return callback(null, true);
       }
       return callback(null, true); // Fallback allow or strict callback(new Error('CORS Error'))
